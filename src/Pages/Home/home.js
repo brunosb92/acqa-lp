@@ -1,5 +1,5 @@
 import React, { createContext, useContext, useReducer, useState } from 'react';
-import '../../global.css';
+import GlobalStyles from '../../styles/global';
 
 // 1. DEFINIÇÃO DO CONTEXTO E ESTADO INICIAL
 const TaskContext = createContext();

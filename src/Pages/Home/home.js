@@ -254,9 +254,7 @@ export default function Home() {
           <div className="card">
             <header className="card-header">
               <h1 className="title">Gerenciador de Tarefas</h1>
-              <p className="subtitle">
-                Organize seu dia com simplicidade e eficiência.
-              </p>
+              <p className="subtitle">Organize as tarefas do seu dia a dia.</p>
             </header>
 
             <section>
